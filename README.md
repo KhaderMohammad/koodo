@@ -1,4 +1,3 @@
-# koodo
-koodo communications
+fiinally koodo
 
-koodo tranformation
+fido fido
